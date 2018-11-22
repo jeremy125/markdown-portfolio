@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*来一段斜体感觉的话语*
+**这是一段粗体感觉的**
+有时候*混合*的文字**也是有点意思**。
