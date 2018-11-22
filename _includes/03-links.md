@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[一个游戏网站](https://www.ign.com)
